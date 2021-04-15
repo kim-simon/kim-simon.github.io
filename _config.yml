@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Seung Mok Kim"
 title_separator          : "-"
-name                     : &name "Seung Mok"
+name                     : &name "Seung Mok Kim" # Bottom Footer Copyright
 description              : &description "personal description"
 url                      : https://smgim.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Seung Mok Kim" # Underneath the circle pic
-  avatar           : "profile.png"
-  bio              : "Hi!"
-  location         : "Seoul"
+  avatar           : "temp.jpg"
+  bio              : "Ph.D. in Marketing"
+  location         : "USA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "seungkim@snu.ac.kr"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : # "http://yourfullgooglescholarurl.com"
+  email            : # "seungkim@snu.ac.kr"
+  researchgate     : # "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,11 +96,11 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "smgim"
+  github           : # "smgim"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
   linkedin         :
   orcid            : "http://orcid.org/yourorcidurl"
@@ -178,13 +178,10 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  publications:
+  research:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
+  other:
     output: true
     permalink: /:collection/:path/
 
