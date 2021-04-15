@@ -82,7 +82,9 @@ analytics:
 author:
   avatar           : "temp.jpg" # Profile Picture
   name             : "Seung Mok Kim" # Underneath the circle pic
-  bio              : "Ph.D. _Marketing_"
+  bio              :  |
+  T. rex, T.rex
+  How I love thee
   location         : "USA"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
