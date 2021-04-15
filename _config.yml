@@ -82,7 +82,7 @@ analytics:
 author:
   avatar           : "temp.jpg" # Profile Picture
   name             : "Seung Mok Kim" # Underneath the circle pic
-  bio              : "Ph.D. in Marketing"
+  bio              : "Ph.D. _Marketing_"
   location         : "USA"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
