@@ -1,6 +1,6 @@
 ---
 title: 'Markdown Guide'
-permalink: /markdown
+permalink: /markdown/
 tags:
   - tag
 ---
