@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
+  avatar           : "temp.jpg" # Profile Picture
   name             : "Seung Mok Kim" # Underneath the circle pic
-  avatar           : # "temp.jpg" # Profile Picture
   bio              : "Ph.D. in Marketing"
   location         : "USA"
   employer         :
