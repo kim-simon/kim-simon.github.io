@@ -1,10 +1,8 @@
 ---
+layout: archive
 title: "Markdown Guide"
 permalink: /guide/
-author_profile: true
 excerpt: "Simple Guide"
-tags:
-  - tag
 ---
 
 ## Locations of key files/directories
