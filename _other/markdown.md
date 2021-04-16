@@ -2,11 +2,10 @@
 title: "Markdown Guide"
 permalink: /guide/
 author_profile: true
+excerpt: "Simple Guide"
 tags:
   - tag
 ---
-
-Simple Guide
 
 ## Locations of key files/directories
 
