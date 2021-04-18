@@ -11,7 +11,7 @@ Currently undergoing development.
 
 Research Interests
 ------
-IO
+Empirical Industrial Organization, Quantitative Marketing
 
 ### Test Picture
 ![Test](/images/temp.jpg)
