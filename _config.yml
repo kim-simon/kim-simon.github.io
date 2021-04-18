@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Seung Mok Kim"
-title_separator          : "-"
+title_separator          : "|"
 name                     : &name "Seung Mok Kim" # Bottom Footer Copyright
 description              : &description "personal description"
 url                      : https://smgim.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -191,7 +191,7 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: posts
+      type: other
     values:
       layout: single
       author_profile: true
@@ -199,13 +199,6 @@ defaults:
       comments: true
       share: true
       related: true
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
   # _teaching
   - scope:
       path: ""
@@ -215,32 +208,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _publications
+  # _research
   - scope:
       path: ""
-      type: publications
+      type: research
     values:
       layout: single
       author_profile: true
       share: true
       comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
 
 # Sass/SCSS
 sass:
