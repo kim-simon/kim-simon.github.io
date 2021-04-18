@@ -2,7 +2,6 @@
    FOOTER
    ========================================================================== */
 
-/*
 .page__footer {
   @include clearfix;
   float: left;
@@ -15,7 +14,7 @@
   bottom: 0em;
   height: auto;
   /* sticky footer fix end */
-  margin-top: 3em;
+  margin-top: 0em; /* 3em */
   color: mix(#fff, $gray, 25%);
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
@@ -91,4 +90,3 @@
     }
   }
 }
-*/
