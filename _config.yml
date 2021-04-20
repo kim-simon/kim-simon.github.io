@@ -11,7 +11,7 @@ title                    : "Seung Mok Kim"
 title_separator          : "|"
 name                     : &name "Seung Mok Kim" # Bottom Footer Copyright
 description              : &description "personal description"
-url                      : https://smgim.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "smgim/smgim.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : # "seungkim@snu.ac.kr"
+  email            : "seungkim@snu.ac.kr"
   researchgate     : # "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -99,11 +99,11 @@ author:
   github           : # "smgim"
   google_plus      :
   keybase          :
-  instagram        : "test"
+  instagram        : 
   impactstory      : 
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
