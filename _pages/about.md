@@ -7,11 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-Currently undergoing development.
+Currently undergoing development. <br>
+#### Email:
+a at b.com
 
 Research Interests
 ------
-Empirical Industrial Organization, Quantitative Marketing
+Empirical Industrial Organization, Quantitative Marketing, Demand Estimation
 
 ### Test Picture
 ![Test](/images/temp.jpg)
