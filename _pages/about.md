@@ -7,9 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-*Currently undergoing development.*<br>
+*Currently undergoing development.*
+
+---
 **Contact:** seungkim at snu.ac.kr
 
-Research Interests
-------
+## Research Interests
 Empirical Industrial Organization, Quantitative Marketing, Demand Estimation
