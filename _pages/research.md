@@ -6,11 +6,9 @@ author_profile: true
 ---
 
 {% include base_path %}
-
-Publications
-------
+<!--
+## Publications
 * [&quot;Title.&quot;](/images/smiley.jpg), 2021, <i>Journal</i>. 1(2).
-
-Working Papers
-------
-* &quot;Title.&quot;, R&R at <i>Journal</i>.
+-->
+## Working Papers
+* [&quot;The Korean Wine Industry: Structural Analysis of Consumer Demand and Liquor Tax Reform.&quot;](https://papers.ssrn.com/abstract=3831443), R&R at <i>Journal of Wine Economics</i>.
