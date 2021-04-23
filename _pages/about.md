@@ -2,6 +2,7 @@
 permalink: /
 title: "Home"
 author_profile: true
+excerpt: "Seung Mok Kim"
 redirect_from: 
   - /about/
   - /about.html
