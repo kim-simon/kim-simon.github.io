@@ -2,7 +2,7 @@
 layout: archive
 title: "Markdown Guide"
 permalink: /guide/
-excerpt: "Simple Guide"
+excerpt: "Simple Guide to Markdown"
 ---
 
  * Korean version can be found *[here](https://anys4udoc.readthedocs.io/en/latest/attach/doc-markdown.html#)*.
