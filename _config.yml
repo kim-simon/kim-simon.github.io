@@ -198,7 +198,7 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: other
+      type: misc
     values:
       layout: single
       author_profile: true
