@@ -6,9 +6,11 @@ excerpt: "Seung Mok Kim"
 redirect_from: 
   - /about/
   - /about.html
+date: 2021-04-10
 ---
 
-*Currently undergoing development.*
+Currently undergoing development.
+{: .notice}
 
 ---
 M.A. Student, Department of Economics, Seoul National University<br>

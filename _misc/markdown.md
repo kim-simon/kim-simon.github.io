@@ -5,7 +5,8 @@ permalink: /guide/
 excerpt: "Simple Guide to Markdown"
 ---
 
- * Korean version can be found *[here](https://anys4udoc.readthedocs.io/en/latest/attach/doc-markdown.html#)*.
+ * Korean version can be found [here](https://anys4udoc.readthedocs.io/en/latest/attach/doc-markdown.html#).
+ * Guide on Minimal Mistakes can be found [here](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide).
 
 ## Resources
  * [Liquid syntax guide](https://shopify.github.io/liquid/tags/control-flow/)

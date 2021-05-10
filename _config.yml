@@ -181,7 +181,7 @@ collections:
   research:
     output: true
     permalink: /:collection/:path/
-  other:
+  misc:
     output: true
     permalink: /:collection/:path/
 
