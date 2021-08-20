@@ -83,11 +83,11 @@ author:
   avatar           : "temp.jpg" # Profile Picture
   name             : "Seung Mok Kim" # Underneath the circle pic
   bio              : "Ph.D. Student at JSOM,<br>University of Texas at Dallas"
-  location         : "TX, USA"
+  location         : "TX 75080, USA"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : "seungkim@snu.ac.kr"
+  email            : "seungmok.kim@utdallas.edu"
   researchgate     : # "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
