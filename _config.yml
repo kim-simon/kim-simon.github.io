@@ -82,7 +82,7 @@ analytics:
 author:
   avatar           : "temp.jpg" # Profile Picture
   name             : "Seung Mok Kim" # Underneath the circle pic
-  bio              : "Ph.D. Student<br> University of Texas at Dallas"
+  bio              : "Ph.D. Student at JSOM,<br>University of Texas at Dallas"
   location         : "TX, USA"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

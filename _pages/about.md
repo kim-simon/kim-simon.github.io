@@ -6,17 +6,14 @@ excerpt: "Seung Mok Kim"
 redirect_from: 
   - /about/
   - /about.html
-date: 2021-04-10
+date: 2021-08-20
 ---
 
 Currently undergoing development.
 {: .notice}
 
 ---
-M.A. Student, Department of Economics, Seoul National University<br>
- * I will begin my PhD in Quantitative Marketing at Naveen Jindal School of Management, University of Texas at Dallas in September, 2021.
-
-**Contact:** seungkim at snu.ac.kr / seungmok.kim@utdallas.edu
+**Contact:** seungmok.kim@utdallas.edu
 
 ## Research Interests
 Empirical Industrial Organization, Quantitative Marketing, Demand Estimation
