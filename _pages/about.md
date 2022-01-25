@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 date: 2021-08-20
 ---
-
-Currently undergoing development.
+Welcome! This website is currently undergoing development.
 {: .notice}
 
 ---
