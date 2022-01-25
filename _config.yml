@@ -7,8 +7,8 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Seung Mok Kim"
-title_separator          : "ǁ"
+title                    : ""
+title_separator          : "|"
 name                     : &name "Seung Mok Kim" # Bottom Footer Copyright
 description              : &description "personal description"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
