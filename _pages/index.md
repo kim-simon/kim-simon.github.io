@@ -5,7 +5,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-date: 2021-08-20
+date: 2022-01-27
 ---
 Welcome! This website is currently undergoing development.
 {: .notice}
