@@ -104,7 +104,7 @@ analytics:
 author:
   name             : "Seung Mok 'Simon' Kim"
   avatar           : "/assets/images/smiley.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Ph.D. Student<br>Naveen Jindal School of Management<br>University of Texas at Dallas"
+  bio              : "Ph.D. Student<br>Naveen Jindal SOM<br>University of Texas at Dallas"
   location         : "TX 75080, USA"
   email            : "seungmok.kim@utdallas.edu"
   links:
