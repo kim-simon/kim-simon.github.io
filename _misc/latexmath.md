@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Math Symbols in LaTeX"
-permalink: /assets/files/mathsymbol.pdf
+permalink: /latexmath/
 read_time: false
 ---
 
