@@ -1,11 +1,12 @@
 ---
-permalink: /
+permalink: /home/
 title: "Home"
 author_profile: true
 excerpt: "Seung Mok Kim"
 redirect_from: 
   - /about/
   - /about.html
+  - index.html
 date: 2021-08-20
 ---
 Welcome! This website is currently undergoing development.
