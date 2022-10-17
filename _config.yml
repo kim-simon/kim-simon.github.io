@@ -105,7 +105,7 @@ author:
   avatar           : "/assets/images/smiley.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Ph.D. Student<br>Naveen Jindal SOM<br>University of Texas at Dallas"
   location         : 
-  email            : "seungmok.kim@utdallas.edu"
+  email            : "kim@utdallas.edu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
