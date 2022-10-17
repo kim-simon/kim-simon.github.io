@@ -11,7 +11,7 @@ Welcome! This website is currently undergoing development.
 {: .notice}
 
 ---
-**Contact:** seungmok.kim@utdallas.edu
+**Contact:** kim@utdallas.edu
 
 ## Research Interests
 Empirical Industrial Organization, Quantitative Marketing, Demand Estimation
