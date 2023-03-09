@@ -11,7 +11,7 @@ Welcome! This website is currently undergoing development.
 {: .notice}
 
 ---
-**Contact:** kim@utdallas.edu
+**Contact:** kim at utdallas dot edu
 
 ## Research Interests
 Empirical Industrial Organization, Quantitative Marketing, Demand Estimation
