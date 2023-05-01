@@ -5,4 +5,4 @@ permalink: /assets/files/gametrees.pdf
 read_time: false
 ---
 
-By In-Sung Cho @ KNU
+By In-Sung Cho @ KNU. Package link: [https://ctan.org/pkg/istgame](https://ctan.org/pkg/istgame)
