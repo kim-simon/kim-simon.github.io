@@ -5,4 +5,4 @@ permalink: /assets/files/gametrees.pdf
 read_time: false
 ---
 
-Click [here](/assets/files/gametrees.pdf).
+By In-Sung Cho @ KNU
