@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Game Theory Trees in LaTeX"
-permalink: /gametrees/
+permalink: /gametrees.pdf
 read_time: false
 ---
 
