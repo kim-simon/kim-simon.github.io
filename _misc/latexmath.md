@@ -5,4 +5,4 @@ permalink: /latexmaths/
 read_time: false
 ---
 
-Click [here.](/assets/files/mathsymbol.pdf)
+Click [here](/assets/files/mathsymbol.pdf).
