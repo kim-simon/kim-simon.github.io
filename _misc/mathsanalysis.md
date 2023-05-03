@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Link to Maths Analysis Course Videos"
+title: "Link to Maths Analysis Course Videos (Korean)"
 permalink: /mathsanalysis/
 read_time: false
 ---
