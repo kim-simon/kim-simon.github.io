@@ -11,6 +11,8 @@ excerpt: "Simple Guide to Markdown"
 ## Resources
  * [Liquid syntax guide](https://shopify.github.io/liquid/tags/control-flow/)
 
+> Below are preview of the Markdown codes. The code is presented at the end.
+
 ## Markdown guide
 
 ### Header three
