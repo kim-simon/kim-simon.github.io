@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Link to Maths Analysis Course Videos (Korean)"
+title: "Maths Analysis Courses (Korean)"
 date: 2023-05-03
 permalink: /mathsanalysis/
 read_time: false
