@@ -99,6 +99,8 @@ analytics:
     tracking_id          : "UA-194871620-1"
     anonymize_ip         : # true, false (default)
 
+google_analytics: UA-194871620-1
+
 # Site Author
 author:
   name             : "Seung Mok \"Simon\" Kim"
