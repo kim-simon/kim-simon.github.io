@@ -12,3 +12,5 @@ author_profile: true
 * [&quot;Liquor Tax Reform in the Korean Wine Industry&quot;](https://papers.ssrn.com/abstract=3831443), <i>Forthcoming</i> at <i>Journal of Wine Economics</i>.
 -->
 ## Working Papers
+
+See [Google Scholar](https://scholar.google.com/citations?user=jEQXVKUAAAAJ&hl=en)
