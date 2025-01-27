@@ -9,12 +9,12 @@ author_profile: true
 
 ### Sole Instructor
 
-| Courses                 | Term   | Student | Evaluation |
-|:-----------------------:|:------:|:-------:|:----------:|
-| Principles of Marketing | F 2024 |   UG    |    4.85    |
+| Courses                 | Level  |  Term  | Evaluation |
+|:-----------------------:|:------:|:------:|:----------:|
+| Principles of Marketing |   UG   | F 2024 |  4.85 / 5  |
 
 ### Teaching Assistant
 
-| Courses                 | Term   | Student | Instructor |
-|:-----------------------:|:------:|:-------:|:----------:|
-| Too many to list ...    |        |         |            |
+| Courses                 | Level  |  Term  | Instructor |
+|:-----------------------:|:------:|:------:|:----------:|
+| Too many to list ...    |        |        |            |
