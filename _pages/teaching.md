@@ -15,6 +15,6 @@ author_profile: true
 
 ### Teaching Assistant
 
-| Courses                 | Term   | Student |
-|:-----------------------:|:------:|:-------:|
-| Too many to list ...    |        |         |
+| Courses                 | Term   | Student | Instructor |
+|:-----------------------:|:------:|:-------:|:----------:|
+| Too many to list ...    |        |         |            |
