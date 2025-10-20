@@ -16,4 +16,4 @@ Welcome! This website is currently undergoing development.
 ## Research Interests
 Empirical Industrial Organization, Quantitative Marketing, Demand Estimation
 
-<a href="/misc/" style="color:transparent; text-decoration:none;">‎</a>
+<a href="/misc/" style="display:block; height:20px; width:100%; color:transparent; text-decoration:none;"> </a>
