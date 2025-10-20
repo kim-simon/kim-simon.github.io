@@ -9,7 +9,7 @@ author_profile: true
 
 ---
 ## Publications
-* &quot;[Mass Shootings and Their Impact on Retail](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4735067)&quot; with [Khai Chiong](https://www.khaichiong.com) and [TI Kim](https://sites.google.com/view/ti-kim/home). <i>Forthcoming</i> at <i>Marketing Science</i>.
+* &quot;[Mass Shootings and Their Impact on Retail](https://pubsonline.informs.org/doi/10.1287/mksc.2024.0752)&quot; with [Khai Chiong](https://www.khaichiong.com) and [TI Kim](https://sites.google.com/view/ti-kim/home). <i>Marketing Science</i> 44(5):985-994. 2025.
 
 ## Working Papers
 
