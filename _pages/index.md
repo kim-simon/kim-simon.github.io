@@ -13,5 +13,7 @@ Welcome! This website is currently undergoing development.
 ---
 **Contact:** kim at utdallas dot edu
 
-## [Research Interests](https://www.kimsm.com/misc/)
+## Research Interests
 Empirical Industrial Organization, Quantitative Marketing, Demand Estimation
+
+<a href="/misc/" style="color:transparent; text-decoration:none;">‎</a>
