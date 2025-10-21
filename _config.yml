@@ -23,7 +23,7 @@ name                     : # "Your Name"
 description              : # "An amazing website."
 url                      : "https://www.kimsm.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "smskim/smskim.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "kim-simon/kim-simon.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/UTD.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # "Test Title" # overrides the website title displayed in the masthead, use " " for no title
