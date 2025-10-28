@@ -103,7 +103,7 @@ google_analytics: UA-194871620-1
 
 # Site Author
 author:
-  name             : "Seung Mok \"Simon\" Kim"
+  name             : "Simon Kim"
   avatar           : "/assets/images/smiley.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Ph.D. Student<br>Naveen Jindal SOM<br>University of Texas at Dallas"
   location         : 
